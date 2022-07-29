@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396405488873",
+    "project_id": "yogaai-7636e",
+    "storage_bucket": "yogaai-7636e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396405488873:android:578a1bd3a6447626884478",
+        "android_client_info": {
+          "package_name": "com.example.yoga_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396405488873-nb0e8v1r4s29uo4gvjt2t6e5dirldq9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_pBW2SV2vQhX2FGF1ODGu66TMuotCZ7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396405488873-nb0e8v1r4s29uo4gvjt2t6e5dirldq9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
